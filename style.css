@@ -1,0 +1,68 @@
+.head{
+    position: relative;
+    left: 900px;
+    top: 10px;
+}
+.headimg{
+    position: relative;
+    left: 1000px;
+}
+.emailpass{
+    position: relative;
+    font-weight: bold;
+    left: 900px;
+}
+.inputf{
+    position: relative;
+    left: 900px
+}
+.btncnt{
+    margin-left: 900px;
+    margin-top: 15px;
+    padding-bottom: 20px;
+}
+.term{
+    font-size: 12px;
+    font-family: sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 898px;
+    padding-top: 1px;
+
+
+}
+.sum{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: sans-serif;
+    margin-left: 900px;
+    padding-top: 20px;
+
+}
+.newcus{
+    color: #767676;
+    font-size: 12px;
+    font-family: sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 1000px;
+    margin-top: 60px;
+
+}
+.newacc{
+    color: #111111;
+    margin-left: 850px;
+    margin-top: 15px;
+}
+.cust{
+    margin-left: 930px;
+    font-size: 13px;
+    padding-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.final{
+    margin-left: 930px;
+    font-size: 12px;
+    padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    color: #555555;
+}
